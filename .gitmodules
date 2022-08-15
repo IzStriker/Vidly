@@ -1,0 +1,6 @@
+[submodule "Vidly-Frontend"]
+	path = Vidly-Frontend
+	url = https://github.com/IzStriker/Vidly-Frontend.git
+[submodule "Vidly-Backend"]
+	path = Vidly-Backend
+	url = https://github.com/IzStriker/Vidly-Backend.git
